@@ -120,3 +120,11 @@ animation: hide 0.2s ease-out;
 
   }
 }
+
+button {
+  padding: 15px;
+  margin: 15px;
+  color: #fff;
+  background-color: #4094c8;
+  border-radius: 8px;
+}
